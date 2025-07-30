@@ -15,18 +15,33 @@ AI와 자동화를 통해 **불필요한 반복 업무를 줄이는 솔루션**�
 
 ## 🛠️ Tech Stack
 
-**Backend**
-- Python 3.12, FastAPI, SQLModel
-- Celery, pgvector, Alembic
+### Backend  
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.110.0-009688?logo=fastapi)
+![SQLModel](https://img.shields.io/badge/SQLModel-%20-lightgrey)
+![Celery](https://img.shields.io/badge/Celery-5.5.0-%2300C7B7?logo=celery)
+![pgvector](https://img.shields.io/badge/pgvector-PostgreSQL--extension-lightblue)
+![Alembic](https://img.shields.io/badge/Alembic-Migration-lightgrey)
 
-**Frontend**
-- Next.js 14, React 19, Tailwind CSS
-- Axios, Zustand, Shadcn/UI
+### Frontend  
+![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)
+![React](https://img.shields.io/badge/React-19-blue?logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC?logo=tailwindcss&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-HTTPClient-blue)
+![Zustand](https://img.shields.io/badge/Zustand-StateManagement-orange)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-ComponentLibrary-green)
 
-**DevOps**
-- Docker, GitHub Actions, systemd, Nginx
-- PostgreSQL 17, Redis 7.2, Kubernetes (1.33+)
-- Poetry, Tmux, journalctl 로그 자동화
+### DevOps  
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Automation-blue?logo=githubactions)
+![Systemd](https://img.shields.io/badge/systemd-ServiceManager-informational)
+![Nginx](https://img.shields.io/badge/Nginx-ReverseProxy-green?logo=nginx)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-blue?logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-7.2-red?logo=redis)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1.33-blue?logo=kubernetes)
+![Poetry](https://img.shields.io/badge/Poetry-PackageManager-%236e4c13)
+![tmux](https://img.shields.io/badge/Tmux-Terminal-lightgrey)
+![journalctl](https://img.shields.io/badge/journalctl-Logs-lightblue)
 
 <br/>
 
