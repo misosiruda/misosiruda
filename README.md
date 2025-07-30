@@ -47,8 +47,8 @@ AI와 자동화를 통해 **불필요한 반복 업무를 줄이는 솔루션**�
 
 ## 📈 GitHub 활동 통계
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=misomiso123&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misomiso123&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=misosiruda&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misosiruda&layout=compact)
 
 <br/>
 
