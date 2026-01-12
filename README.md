@@ -43,19 +43,6 @@ AI와 자동화를 통해 **불필요한 반복 업무를 줄이는 솔루션**�
 ![tmux](https://img.shields.io/badge/Tmux-Terminal-lightgrey)
 ![journalctl](https://img.shields.io/badge/journalctl-Logs-lightblue)
 
-<br/>
-
-## 📈 GitHub 활동 통계
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=misosiruda&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=misosiruda&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=misosiruda)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=misosiruda&theme=flat)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=misosiruda&theme=react-dark)
-
-
-<br/>
-
 ## 🔍 관심 기술
 
 - LLM 기반 RAG 시스템 운영
