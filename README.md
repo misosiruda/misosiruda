@@ -119,6 +119,23 @@ Java/Spring 기반 웹 서비스와 DB 중심 업무 시스템에서 시작해, 
 | 2026 direction | RAG guardrails, estimate workflows, AI operations tooling, test-backed UI/API contracts |
 | Earlier foundation | Java/Spring MVC, Spring Security, MyBatis/JPA, Oracle/PostgreSQL, JSP/Thymeleaf |
 
+## Activity
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=misosiruda&theme=github-dark&hide_border=true&area=true&days=45"
+  />
+  <source
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=misosiruda&theme=github-light&hide_border=true&area=true&days=45"
+  />
+  <img
+    alt="GitHub activity graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=misosiruda&theme=github-light&hide_border=true&area=true&days=45"
+  />
+</picture>
+
 ## Contribution Graph
 
 <picture>
