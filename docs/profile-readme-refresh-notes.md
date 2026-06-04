@@ -78,9 +78,11 @@ This keeps older work visible without letting it dominate the current profile.
 
 ## Applied Implementation Notes
 
-- `README.md` now uses a concise profile headline, current focus table, selected public project cards, private-work-safe summaries, tech stack badges, a stable GitHub snapshot table, and contribution snake.
+- `README.md` now uses a concise profile headline, current focus table, selected public project cards, private-work-safe summaries, compact tech stack icons, a stable GitHub snapshot table, and contribution snake.
 - Dynamic stats cards from `github-readme-stats.vercel.app` and `ghstats.dev` were tested on 2026-06-04 and not embedded because they returned 503/500-level responses during verification.
 - `github-readme-activity-graph` was added after checking the repository README and related issues. The project supports self-hosting with a `TOKEN`, but the profile currently uses the public hosted URL because private contributions are already enabled on the GitHub profile and issue reports indicate that this setting can make private contribution counts appear in the graph.
+- The heavy `for-the-badge` tech stack block was replaced with compact `skillicons.dev` rows for Core and Data/Ops.
+- Preview images were added for `eazy-chorus` and `jaemin-cosmology` under `assets/profile/`. `eazy-chorus` was captured from the live GitHub Pages app after opening the sample project. `jaemin-cosmology` was cropped from the rendered manuscript page image into a 16:9 preview.
 - `.github/workflows/contribution-snake.yml` generates light/dark snake SVGs with `Platane/snk/svg-only@v3` and publishes them to the `output` branch with `crazy-max/ghaction-github-pages@v4`.
 - The contribution snake image will not exist until the workflow runs once after the changes are pushed to GitHub.
 - `docs/project-inventory.md` stores the project audit notes used for the README so future edits can continue from there instead of re-scanning everything.

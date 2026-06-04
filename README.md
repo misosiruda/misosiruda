@@ -43,11 +43,13 @@ Java/Spring 기반 웹 서비스와 DB 중심 업무 시스템에서 시작해, 
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/misosiruda/eazy-chorus">eazy-chorus</a></h3>
+      <img alt="eazy-chorus preview" src="assets/profile/eazy-chorus-preview.png" width="100%" />
       <p>백엔드 없이 동작하는 프론트엔드 전용 화음 가이드 웹앱입니다. 커스텀 <code>.eazychorus</code> 파일 포맷, 샘플 프로젝트, GitHub Pages 배포, Vitest 검증 흐름을 갖췄습니다.</p>
       <p><code>TypeScript</code> <code>React</code> <code>Vite</code> <code>Vitest</code></p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/misosiruda/jaemin-cosmology">jaemin-cosmology</a></h3>
+      <img alt="jaemin-cosmology preview" src="assets/profile/jaemin-cosmology-preview.png" width="100%" />
       <p>한국어 working paper 원고 저장소입니다. Typst 원고, DOI/CITATION 메타데이터, 리뷰어 가이드, 릴리스 체크리스트, CI 기반 문서 빌드 흐름을 정리했습니다.</p>
       <p><code>Typst</code> <code>TeX</code> <code>Makefile</code> <code>GitHub Actions</code></p>
     </td>
@@ -83,22 +85,11 @@ Java/Spring 기반 웹 서비스와 DB 중심 업무 시스템에서 시작해, 
 
 ### Core
 
-![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111827)
-![Java](https://img.shields.io/badge/Java-21-b07219?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+<img alt="Core stack icons" src="https://skillicons.dev/icons?i=py,fastapi,ts,nextjs,react,tailwind,java,spring&theme=light&perline=8" />
 
 ### Data & Ops
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+<img alt="Data and operations stack icons" src="https://skillicons.dev/icons?i=postgres,redis,docker,githubactions,nginx,linux,git&theme=light&perline=7" />
 
 </div>
 
