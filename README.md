@@ -6,8 +6,8 @@
 
 불필요한 반복 업무를 줄이고, 실제 운영 가능한 도구로 바꾸는 일을 좋아합니다.
 
-<a href="mailto:misomsdjk@naver.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-misomsdjk%40naver.com-1f6feb?style=flat-square&logo=gmail&logoColor=white" />
+<a href="mailto:jeamin5678@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-jeamin5678%40gmail.com-1f6feb?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/misosiruda">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-misosiruda-24292f?style=flat-square&logo=github&logoColor=white" />
